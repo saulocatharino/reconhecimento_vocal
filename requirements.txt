@@ -1,0 +1,2 @@
+PyAudio==0.2.9
+SpeechRpyecognition==3.1.3
